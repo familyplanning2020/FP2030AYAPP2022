@@ -1,0 +1,13 @@
+name: FP2030AYApp_2021
+title: FP2030AYApp_2021
+username:
+account: fp2030
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5560060
+bundleId: 5536567
+url: https://fp2030.shinyapps.io/FP2030AYApp_2021/
+when: 1643836675.65559
+lastSyncTime: 1643836675.65559
+asMultiple: FALSE
+asStatic: FALSE
